@@ -1,8 +1,8 @@
 public class Car {
-    public int  cilindrata;
-    public String  targa;
-    public String  auto;
-    public String  modello;
+    private int  cilindrata;
+    private String  targa;
+    private String  auto;
+    private String  modello;
 
     public Car (int cilindrata, String targa, String auto, String modello){
         this.cilindrata = cilindrata;
